@@ -24,3 +24,7 @@ button.save-button {
 button.save-button:hover {
   background-color: #45a049;
 }
+
+.react-flow__attribution {
+  display: none;
+}
